@@ -1,0 +1,1 @@
+var messyString = "ThiS strinG is A MESS !";

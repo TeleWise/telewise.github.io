@@ -1,0 +1,34 @@
+<!Doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Best Package</title>
+    <link rel="stylesheet" href="style.css">
+   <script rel="text/javascript" src="Price4Packages.js"></script>
+  </head>
+  <body>
+    <form name="input_user">
+
+      <label for="fname">What is the last data plan you used?</label>
+    <!--  <p> <input type="radio" name="day" value="1/24" > hourly </p>-->
+      <p> <input type="radio" name="day" value="1"> daily </p>
+      <p> <input type="radio" name="day" value="30"> 30-day </p>
+      <p> <input type="radio" name="day" value="60"> 60-day </p>
+
+      <label for="dataRequired">Amount of data required in MBs:</label>
+      <p> <input type="text" name="amountOfData" placeholder="e.g 100 for 100mbs" value="0"> </p>
+      <!--
+      <label for="dataRequired">Number of SMSs required:</label>
+      <p> <input type="text" name="amountOfSms"> </p>
+
+      <label for="dataRequired">Duration of calling you require:</label>
+      <p> <input type="text" name="amountOfMins"> </p>
+    -->
+      <input type="button" value="submit" onClick="main();">
+     
+
+
+    </form>
+
+  </body>
+  </html>

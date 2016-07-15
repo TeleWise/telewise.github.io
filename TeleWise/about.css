@@ -1,0 +1,29 @@
+body{
+  background-color:pink;
+  color:purple;
+}
+
+h1{
+  border-left: 6px solid red;
+  background-color: black;
+  color: orange;
+  font-weight: bolder;
+  font-stretch: extra-condensed;
+  font-variant: inherit;
+  font-style: oblique;
+
+}
+a:link, a:visited {
+    border-radius: 25px;
+    background-color: #c3b0c3;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #2a334f;
+}
+

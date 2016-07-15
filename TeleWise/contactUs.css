@@ -1,0 +1,36 @@
+ul {
+    background-color:grey ;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: absolute;
+    left:30%;
+    top:30%;
+}
+
+ul
+{  width: 300px;
+    border: 25px solid;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 25px;
+}
+body{
+  background-color:pink;
+
+}
+a:link, a:visited {
+  border-radius: 25px;
+    background-color: #c3b0c3;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #2a334f;
+}

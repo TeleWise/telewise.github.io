@@ -1,0 +1,120 @@
+body{
+  /*background-image: url("zenzeleni-bgr.jpg");*/
+  /*background-size: width: 100% height: 100% padding: 0 margin: 0;*/
+
+  background-size:cover;
+  min-width: 700px;
+  min-height: 100%;
+}
+#full-screen{
+  z-index:1;
+  min-height:100%;
+  min-width:1024px;
+  width:100%;
+  height:auto;
+  position:absolute;
+  top:0;
+  /*margin-left:50%;*/
+}
+h1{
+  z-index:2;
+  position:relative;
+  text-align: center;
+  font-size:35px
+}
+#welcome {
+  top:350px;
+  left:75px;
+}
+#to {
+  top:352;
+  left:78;
+}
+#teleb
+{
+  z-index:2;
+  position:absolute;
+  left:5.3%;
+  top:33.54321%;
+  background-color: #C48189;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 28px;
+  border-radius: 24px;
+  height:65px;
+}
+#teleb:hover
+{
+  background-color: #7F525D;
+}
+#telew
+{
+  z-index:2;
+  position:absolute;
+  left:78.321%;
+  top:40.654321%;
+  background-color: #C48189;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 28px;
+  border-radius: 24px;
+  height:55px;
+  width:122px;
+}
+#telew:hover
+{
+  background-color:#7F525D;
+}
+#about
+{
+  z-index:2;
+  position:absolute;
+  left:15.9%;
+  top:94%;
+  background-color: #C48189;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 28px;
+  border-radius: 24px;
+  height:125px;
+  width:173px;
+}
+#about:hover
+{
+  background-color: #7F525D;
+}
+#contact
+{
+  z-index:2;
+  position:absolute;
+  left:74.321%;
+  top:92%;
+  background-color: #C48189;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 28px;
+  border-radius: 24px;
+  height:63px;
+  width:185px;
+}
+#contact:hover
+{
+  background-color: #7F525D;
+}
+

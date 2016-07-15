@@ -1,0 +1,14 @@
+body{
+  background-color:pink;
+  color:purple;
+}
+h1{
+    border-left: 6px solid red;
+    background-color: black;
+  color: orange;
+  font-weight: bolder;
+  font-stretch: extra-condensed;
+  font-variant: inherit;
+  font-style: oblique;
+
+}

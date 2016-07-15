@@ -1,0 +1,23 @@
+body {
+  
+}
+
+body {
+ background-color: #7F525D;
+}
+h1 {
+ font-size: 70px;
+ color: white;
+ font-family: cursive;
+}
+table, th, td {
+ border: 1px solid #C48189;
+ border-collapse: collapse;
+}
+td {
+color: silver;
+background-color: #7F525D;
+}
+th, td {
+font-size: 20px;
+}
